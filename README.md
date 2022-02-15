@@ -19,3 +19,14 @@ Het is beter en makkelijk te begrijpen om beter in te organiseren.
 Met reguliere expressies kan men achterhalen of er een code veel herhaald om het om te zetten naar methodes en functies.
 
 ### Methods and Functies
+Verschil tussen een methode en functie, is dat een functie meerdere keer herhaald wordt.
+Als methodes en functies dezelfde concept delen, waarom noemen ze anders? Het verschil is dat functies standalone code blokken zijn terwijl methodes codeblokken zijn die geassocieerd worden met een object.
+
+## Verschil tussen een Classes en object
+Als we spreken over een plan van aanpak, gaat het over een Classe. Een soort blauwdruk waar men meerdere zaken bouwt, gelijk een bibliotheek door een Classe boek te maken.
+Een Classe heeft ten minste een methode.
+
+self. maakt het zelf aan en stockeert het zijn eigen in self. Hiermee gaat hij zichzelf aanroepen. Een methode in een Classe, hoort altijd het argument 'self' erbij.
+
+Ook om te weten: niet zoals ander OOP talen, in Python is er geen sprake van het maken van 'private' Class variabele of interne methodes. Alles wat wordt aangeduid met ' - '
+## Modules
